@@ -1,0 +1,6 @@
+touch - add item
+status - check what is happening/ what has happened
+log - shows a log of what has happened
+push - pushes all changes that have been committed to the repository
+pull - compares state of repository to local data and makes any changes to data on local system
+add - stages an item
